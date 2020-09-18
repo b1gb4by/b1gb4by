@@ -18,6 +18,8 @@
         <td>
             <!-- GCP -->
             <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>
+            <!-- AWS -->
+            <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/>
         </td>
     </tr>
     <tr>
@@ -29,6 +31,8 @@
             <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
             <!-- Istio -->
             <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio" width="30" height="30"/>
+            <!-- Helm -->
+            <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="30" height="30"/>
             <!-- Prometheus -->
             <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="30" height="30"/>
             <!-- Grafana -->
@@ -101,6 +105,13 @@
         <td>
             <!-- Nikola -->
             <img src="https://raw.githubusercontent.com/getnikola/nikola/5184bd3601de6c572a3b065b53b17f7d9f087d47/logo/nikola.svg" alt="nikola" width="30" height="30"/>
+        </td>
+    </tr>
+    <tr>
+        <td><b> Others </b></td>
+        <td>
+            <!-- Vagrant -->
+            <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="30" height="30"/>
         </td>
     </tr>
     </tbody>
