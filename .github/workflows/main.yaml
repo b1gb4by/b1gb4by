@@ -3,9 +3,10 @@ name: Build the README
 on:
   push:
     branches: [ master ]
+  workflow_dispatch:
   schedule:
-    # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: '1 0 * * *'
+    # Runs at 4am JST
+    - cron: '30 19 * * *'
 
 jobs:
   build:
