@@ -29,7 +29,7 @@
             <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
             <!-- Istio -->
             <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio" width="30" height="30"/>
-            <!-- Promethues -->
+            <!-- Prometheus -->
             <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="30" height="30"/>
             <!-- Grafana -->
             <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="30" height="30"/>
@@ -77,9 +77,13 @@
     <tr>
         <td><b> Frontend </b></td>
         <td>
+            <!-- HTML5 -->
             <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+            <!-- CSS3 -->
             <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
+            <!-- Vue.js -->
             <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>
+            <!-- Bootstrap -->
             <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
         </td>
     </tr>
