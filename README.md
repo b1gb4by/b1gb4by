@@ -1,8 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1600385609/10490/cactuar.gif?1600385609" width="30"/> Hi, I'm morero (t4i5uKE). </h1>
+<h1>
+<img src="https://emojis.slackmojis.com/emojis/images/1600385609/10490/cactuar.gif?1600385609" width="30"/> 
+Hi, I'm t4i5uKE (morero) 
+<img src="https://emojis.slackmojis.com/emojis/images/1600385609/10490/cactuar.gif?1600385609" width="30"/>
+</h1>
 
-<p> I'm currently working on the infrastructure development in Japan <img src="https://www.flaticon.com/svg/static/icons/svg/2159/2159573.svg" width="13"/>.</p>
-
----
+<p> 
+Welcome to my page !! <br>
+I'm currently working on the infrastructure development in Japan <img src="https://www.flaticon.com/svg/static/icons/svg/2159/2159573.svg" width="13"/>.
+</p>
 
 <h3>Technology currently / previously used</h3>
 <table>
@@ -117,8 +122,6 @@
     </tbody>
 </table>
 
----
-
 <h3> Statistics </h3>
 
 [![](./profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -138,5 +141,3 @@
     <！-END_SECTION：waka->
 
 </details>
-
----
