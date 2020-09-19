@@ -9,7 +9,9 @@ Welcome to my page !! <br>
 I'm currently working on the infrastructure development in Japan <img src="https://www.flaticon.com/svg/static/icons/svg/2159/2159573.svg" width="13"/>.
 </p>
 
-<h3>Technology currently / previously used</h3>
+---
+
+<h3> :gear: Technology currently / previously used</h3>
 
 <table align="center">
     <thead align="center">
@@ -182,6 +184,14 @@ I'm currently working on the infrastructure development in Japan <img src="https
     </tr>
     </tbody>
 </table>
+
+---
+
+<h3> :bar_chart: Weekly development breakdown </h3>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 
 <h3> :chart_with_upwards_trend: Stats </h3>
 
