@@ -187,9 +187,6 @@ I'm currently working on the infrastructure development in Japan <img src="https
 
 <a href="https://github.com/t4i5uKE/t4i5uKE">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4i5uKE&theme=nord&layout=compact">
-</a>
-
-<a href="https://github.com/t4i5uKE/t4i5uKE">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=t4i5uKE&theme=nord&line_height=27&show_icons=true&hide=contribs">
 </a>
 
@@ -197,7 +194,7 @@ I'm currently working on the infrastructure development in Japan <img src="https
 
 ![](./profile-summary-card-output/nord_dark/0-profile-details.svg)
 ![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)
-![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)]
+![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)
 
 </a>
 
