@@ -22,6 +22,11 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Statistics from WakaTime
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
       - name: Commit and push if changed
         run: |-
           git add .
