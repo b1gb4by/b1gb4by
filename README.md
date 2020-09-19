@@ -22,101 +22,161 @@ I'm currently working on the infrastructure development in Japan <img src="https
         <td><b> Cloud </b></td>
         <td>
             <!-- GCP -->
-            <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>
+            <a href="https://cloud.google.com/?hl=ja">
+                <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+            </a>
             <!-- AWS -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/>
+            <a href="https://aws.amazon.com/jp/">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+            </a>
         </td>
     </tr>
     <tr>
         <td><b> Cloud Native </b></td>
         <td>
             <!-- Kubernetes -->
-            <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/>
+            <a href="https://kubernetes.io/ja/">
+                <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+            </a>
             <!-- Docker -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
+            <a href="https://www.docker.com/">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+            </a>
             <!-- Istio -->
-            <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio" width="30" height="30"/>
+            <a href="https://istio.io/">
+                <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio" width="40" height="40"/>
+            </a>
             <!-- Helm -->
-            <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="30" height="30"/>
+            <a href="https://helm.sh/">
+                <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
+            </a>
             <!-- Prometheus -->
-            <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="30" height="30"/>
+            <a href="https://prometheus.io/">
+                <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+            </a>
             <!-- Grafana -->
-            <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="30" height="30"/>
+            <a href="https://grafana.com/grafana/">
+                <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+            </a>
             <!-- kiali -->
-            <img src="https://design.jboss.org/kiali/logo/final/PNG/kiali_icon_lightbkg_1280px.png" alt="kiali" width="30" height="30"/>
+            <a href="https://kiali.io/">
+                <img src="https://design.jboss.org/kiali/logo/final/PNG/kiali_icon_lightbkg_1280px.png" alt="kiali" width="40" height="40"/>
+            </a>
             <!-- Jaeger -->
-            <img src="https://raw.githubusercontent.com/jaegertracing/artwork/f1deab322b37bfc8e4bb872619ef92800ee55d65/SVG/Jaeger_Logo_Final_PANTONE.svg" alt="jaeger" width="30" height="30"/>
+            <a href="https://www.jaegertracing.io/">
+                <img src="https://raw.githubusercontent.com/jaegertracing/artwork/f1deab322b37bfc8e4bb872619ef92800ee55d65/SVG/Jaeger_Logo_Final_PANTONE.svg" alt="jaeger" width="40" height="40"/>
+            </a>
         </td>
     </tr>
     <tr>
         <td><b> Database </b></td>
         <td>
             <!-- Redis -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/>
+            <a href="https://redis.io/">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+            </a>
             <!-- MySQL -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+            <a href="https://www.mysql.com/jp/">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+            </a>
             <!-- PostgreSQL -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
+            <a href="https://www.postgresql.org/">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+            </a>
         </td>
     </tr>
     <tr>
         <td><b> CI Tool </b></td>
         <td>
-            <img src="https://cdn.worldvectorlogo.com/logos/circleci.svg" alt="circleci" width="30" height="30"/>
-            <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/>
+            <!-- Circle CI -->
+            <a href="https://circleci.com/ja/">
+                <img src="https://cdn.worldvectorlogo.com/logos/circleci.svg" alt="circleci" width="40" height="40"/>
+            </a>
+            <!-- Jenkins -->
+            <a href="https://www.jenkins.io/">
+                <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+            </a>
         </td>
     </tr>
     <tr>
         <td><b> Programming Languages </b></td>
         <td>
             <!-- Golang -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="30" height="30"/>
+            <a href="https://golang.org/">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+            </a>
             <!-- Python -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
+            <a href="https://www.python.org/">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+            </a>
             <!-- PHP -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/>
+            <a href="https://www.php.net/">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+            </a>
             <!-- Java -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/>
+            <a href="https://java.com/ja/">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+            </a>
             <!-- Clang -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
+            <a href="http://llvm.org/">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+            </a>
             <!-- C# -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
+            <a href="https://github.com/dotnet/csharplang">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+            </a>
         </td>
     </tr>
     <tr>
         <td><b> Frontend </b></td>
         <td>
             <!-- HTML5 -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+            <a href="https://html.spec.whatwg.org/multipage/">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+            </a>
             <!-- CSS3 -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
+            <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+            </a>
             <!-- Vue.js -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>
+            <a href="https://jp.vuejs.org/index.html">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+            </a>
             <!-- Bootstrap -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
+            <a href="https://getbootstrap.jp/">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+           </a>
         </td>
     </tr>
     <tr>
         <td><b> Framework </b></td>
         <td>
             <!-- Laravel -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/>
+            <a href="http://laravel.jp/">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+            </a>
             <!-- Django -->
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="30" height="30"/>
+            <a href="https://www.djangoproject.com/">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+            </a>
         </td>
     </tr>
     <tr>
         <td><b> Static Site Generators </b></td>
         <td>
             <!-- Nikola -->
-            <img src="https://raw.githubusercontent.com/getnikola/nikola/5184bd3601de6c572a3b065b53b17f7d9f087d47/logo/nikola.svg" alt="nikola" width="30" height="30"/>
+            <a href="https://getnikola.com/">
+                <img src="https://raw.githubusercontent.com/getnikola/nikola/5184bd3601de6c572a3b065b53b17f7d9f087d47/logo/nikola.svg" alt="nikola" width="40" height="40"/>
+            </a>
         </td>
     </tr>
     <tr>
         <td><b> Others </b></td>
         <td>
             <!-- Vagrant -->
-            <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="30" height="30"/>
+            <a href="https://www.vagrantup.com/">
+                <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
+            </a>
         </td>
     </tr>
     </tbody>
@@ -130,14 +190,9 @@ I'm currently working on the infrastructure development in Japan <img src="https
 [![](./profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![morero's github stats](https://github-readme-stats.vercel.app/api?username=t4i5uKE&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github.com/t4i5uKE/t4i5uKE/blob/master/images/stat.svg" alt="Alternative Text"/>
+<img height="150" src="https://github.com/t4i5uKE/t4i5uKE/blob/master/images/stat.svg" alt="Alternative Text"/>
 
 <br>
 
-<details>
-    <summary> Other Statics </summary>
-    
-    <!--START_SECTION:waka-->
-    <！-END_SECTION：waka->
-
-</details>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
