@@ -141,12 +141,12 @@ I'm currently working on the infrastructure development in Japan <img src="https
             </a>
             <!-- Vue.js -->
             <a href="https://jp.vuejs.org/index.html">
-                <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/>
             </a>
             <!-- Bootstrap -->
             <a href="https://getbootstrap.jp/">
                 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-           </a>
+            </a>
         </td>
     </tr>
     <tr>
@@ -183,7 +183,21 @@ I'm currently working on the infrastructure development in Japan <img src="https
     </tbody>
 </table>
 
-[![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![morero's github stats](https://github-readme-stats.vercel.app/api?username=t4i5uKE&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<h3> :chart_with_upwards_trend: Stats </h3>
 
-[![](./profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/t4i5uKE/t4i5uKE">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4i5uKE&theme=nord&layout=compact">
+</a>
+
+<a href="https://github.com/t4i5uKE/t4i5uKE">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=t4i5uKE&theme=nord&line_height=27&show_icons=true&hide=contribs">
+</a>
+
+<a href="https://github.com/t4i5uKE/t4i5uKE">
+
+![](./profile-summary-card-output/nord_dark/0-profile-details.svg)
+![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)]
+
+</a>
+
