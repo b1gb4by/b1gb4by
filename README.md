@@ -189,6 +189,9 @@ I'm currently working on the infrastructure development in Japan <img src="https
 
 <h3> :bar_chart: Weekly development breakdown </h3>
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ---
