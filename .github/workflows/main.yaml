@@ -15,16 +15,18 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Get Github Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
 
-      - name: 🚀 Deploy
+      - name: Commit and push if changed
         run: |-
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git add .
-          git commit -am ":muscle: Update"
-          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+          git diff
+          git config --global user.email "github-action-bot@example.com"
+          git config --global user.name "GitHub Action Bot"
+          git commit -m ":muscle: Updated README" -a || echo "No changes to commit"
+          git push
