@@ -4,6 +4,27 @@ Hi, I'm t4i5uKE (morero)
 <img src="https://emojis.slackmojis.com/emojis/images/1600385609/10490/cactuar.gif?1600385609" width="30"/>
 </h1>
 
+<p align="left">
+    <!-- GitHub -->
+    <a href="https://github.com/t4i5uKE/t4i5uKE/">
+        <img src="https://komarev.com/ghpvc/?username=m0rer0" alt="github" />
+    </a>
+    <a href="https://github.com/t4i5uKE">
+        <img height="20" src="https://img.shields.io/github/followers/t4i5uKE?label=follow&logo=github&style=flat" alt="github_follow"/>
+    </a>
+    <!-- Twitter -->
+    <a href="http://twitter.com/m0rer0">
+        <img height="20" src="https://img.shields.io/twitter/follow/m0rer0?label=Twitter&logo=twitter&style=flat" alt="twitter"/>
+    </a>
+    <!-- Qiita -->
+    <a href="http://qiita.com/Morero">
+        <img height="20" src="https://qiita-badge.apiapi.app/s/Morero/posts.svg" />
+    </a>
+    <a href="http://qiita.com/Morero">
+        <img height="20" src="https://qiita-badge.apiapi.app/s/Morero/contributions.svg" />
+    </a>
+</p>
+
 <p> 
 Welcome to my page !! <br>
 I'm currently working on the infrastructure development in Japan <img src="https://www.flaticon.com/svg/static/icons/svg/2159/2159573.svg" width="13"/>.
@@ -204,6 +225,6 @@ I'm currently working on the infrastructure development in Japan <img src="https
 </a>
 
 <a href="https://github.com/t4i5uKE/t4i5uKE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4i5uKE&theme=nord">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=t4i5uKE&theme=nord&line_height=27&show_icons=true&hide=contribs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4i5uKE&theme=nord"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=t4i5uKE&theme=nord&line_height=27&show_icons=true&hide=contribs"/>
 </a>
