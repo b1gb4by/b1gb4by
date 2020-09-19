@@ -10,7 +10,8 @@ I'm currently working on the infrastructure development in Japan <img src="https
 </p>
 
 <h3>Technology currently / previously used</h3>
-<table>
+
+<table align="center">
     <thead align="center">
     <tr border: none;>
         <td><b> Category </b></td>
@@ -182,17 +183,7 @@ I'm currently working on the infrastructure development in Japan <img src="https
     </tbody>
 </table>
 
-<h3> Statistics </h3>
+[![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![morero's github stats](https://github-readme-stats.vercel.app/api?username=t4i5uKE&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](./profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![morero's github stats](https://github-readme-stats.vercel.app/api?username=t4i5uKE&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<img height="150" src="https://github.com/t4i5uKE/t4i5uKE/blob/master/images/stat.svg" alt="Alternative Text"/>
-
-<br>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![](./profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
