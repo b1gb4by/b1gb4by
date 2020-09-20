@@ -216,6 +216,7 @@ I'm currently working on the infrastructure development in Japan <img src="https
 <!--END_SECTION:waka-->
 
 <img src="https://github.com/t4i5uKE/t4i5uKE/blob/master/images/stat.svg" alt="Alternative Text"/>
+
 ---
 
 <h3> :chart_with_upwards_trend: Stats </h3>
