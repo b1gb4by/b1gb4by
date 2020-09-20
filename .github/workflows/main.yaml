@@ -39,6 +39,6 @@ jobs:
           git diff
           git config --global user.email "github-action-bot@example.com"
           git config --global user.name "GitHub Action Bot"
-          git add -A
+          git add .
           git commit -m ":muscle: Updated README" -a || echo "No changes to commit"
           git push
