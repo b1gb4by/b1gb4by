@@ -213,14 +213,15 @@ I'm currently working on the infrastructure development in Japan <img src="https
 ---
 
 <h3> :bar_chart: Weekly development breakdown </h3>
-
+<!-- waka-readme-stats -->
 <!--START_SECTION:waka-->
 
 
 
 <!--END_SECTION:waka-->
 
-<img src="https://github.com/t4i5uKE/t4i5uKE/blob/master/images/stat.svg" alt="Alternative Text"/>
+<!-- Profile-Readme-WakaTime -->
+![](./images/stat.svg)
 
 ---
 
@@ -228,6 +229,7 @@ I'm currently working on the infrastructure development in Japan <img src="https
 
 <a href="https://github.com/t4i5uKE/t4i5uKE">
 
+<!-- github-profile-summary-card -->
 ![](./profile-summary-card-output/nord_dark/0-profile-details.svg)
 ![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)
 ![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)
