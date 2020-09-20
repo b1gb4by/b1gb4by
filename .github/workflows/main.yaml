@@ -36,6 +36,7 @@ jobs:
 
       - name: Commit and push if changed
         run: |-
+          git diff
           git config --global user.email "github-action-bot@example.com"
           git config --global user.name "GitHub Action Bot"
           git add -A
