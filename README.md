@@ -177,7 +177,7 @@ I'm currently working on the infrastructure development in Japan <img src="https
         <td>
             <!-- Gin -->
             <a href="https://github.com/gin-gonic/gin">
-                <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin" width="40" height="40">
+                <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin" width="40" height="50">
             </a>
             <!-- Laravel -->
             <a href="http://laravel.jp/">
