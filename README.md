@@ -175,6 +175,10 @@ I'm currently working on the infrastructure development in Japan <img src="https
     <tr>
         <td><b> Framework </b></td>
         <td>
+            <!-- Gin -->
+            <a href="https://github.com/gin-gonic/gin">
+                <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin" width="40" height="40">
+            </a>
             <!-- Laravel -->
             <a href="http://laravel.jp/">
                 <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
