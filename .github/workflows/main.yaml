@@ -36,7 +36,11 @@ jobs:
 
       - name: Commit and push if changed
         run: |-
-          git add .
+          mv t4i5uKE subfolder_tmp
+          git submodule deinit t4i5uKE
+          git rm --cached t4i5uKE
+          mv subfolder_tmp t4i5uKE
+          git add t4i5uKE
           git diff
           git config --global user.email "github-action-bot@example.com"
           git config --global user.name "GitHub Action Bot"
