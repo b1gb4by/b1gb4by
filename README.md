@@ -211,8 +211,13 @@ I'm currently working on the infrastructure development in Japan <img src="https
 <h3> :bar_chart: Weekly development breakdown </h3>
 <!--START_SECTION:waka-->
 
-
-
+```text
+Markdown     4 hrs           ██████████████▒░░░░░░░░░░   57.49 % 
+YAML         2 hrs 23 mins   ████████▓░░░░░░░░░░░░░░░░   34.37 % 
+Other        28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+```
 <!--END_SECTION:waka-->
 
 <img src="https://github.com/t4i5uKE/t4i5uKE/blob/master/images/stat.svg" alt="Alternative Text"/>
