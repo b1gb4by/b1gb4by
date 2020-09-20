@@ -210,6 +210,7 @@ I'm currently working on the infrastructure development in Japan <img src="https
 
 <h3> :bar_chart: Weekly development breakdown </h3>
 <!--START_SECTION:waka-->
+
 ```text
 Markdown     4 hrs           ██████████████▒░░░░░░░░░░   57.49 % 
 YAML         2 hrs 23 mins   ████████▓░░░░░░░░░░░░░░░░   34.37 % 
@@ -219,6 +220,7 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<img src="https://github.com/t4i5uKE/t4i5uKE/blob/master/images/stat.svg" alt="Alternative Text"/>
 ---
 
 <h3> :chart_with_upwards_trend: Stats </h3>
