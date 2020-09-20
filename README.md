@@ -221,7 +221,10 @@ I'm currently working on the infrastructure development in Japan <img src="https
 <!--END_SECTION:waka-->
 
 <!-- Profile-Readme-WakaTime -->
-![](./images/stat.svg)
+
+<a href="https://github.com/t4i5uKE/t4i5uKE">
+    <img align="center" src="./images/stat.png" alt="wakatime-stat"/>
+</a>
 
 ---
 
