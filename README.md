@@ -145,6 +145,10 @@ I'm currently working on the infrastructure development in Japan <img src="https
             <a href="http://llvm.org/">
                 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
             </a>
+            <!-- C++ -->
+            <a href="https://isocpp.org/">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+            </a>
             <!-- C# -->
             <a href="https://github.com/dotnet/csharplang">
                 <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -215,9 +219,6 @@ I'm currently working on the infrastructure development in Japan <img src="https
 <h3> :bar_chart: Weekly development breakdown </h3>
 <!-- waka-readme-stats -->
 <!--START_SECTION:waka-->
-
-
-
 <!--END_SECTION:waka-->
 
 <!-- Profile-Readme-WakaTime -->
