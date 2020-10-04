@@ -218,7 +218,9 @@ I'm currently working on the infrastructure development in Japan <img src="https
 
 <h3> :bar_chart: Weekly development breakdown </h3>
 <!-- waka-readme-stats -->
+
 <!--START_SECTION:waka-->
+
 **🐱 My Github Data** 
 
 > 🏆 109 Contributions in the Year 2020
