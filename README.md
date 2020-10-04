@@ -219,7 +219,7 @@ I'm currently working on the infrastructure development in Japan <img src="https
 <h3> :bar_chart: Weekly development breakdown </h3>
 <!-- waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
 
 **🐱 My Github Data** 
 
