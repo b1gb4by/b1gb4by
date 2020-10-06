@@ -27,12 +27,3 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
-
-      - name: Commit and push if changed
-        run: |-
-          git diff
-          git config --global user.email "github-action-bot@example.com"
-          git config --global user.name "GitHub Action Bot"
-          git add .
-          git commit -m ":muscle: Updated README" -a || echo "No changes to commit"
-          git push
