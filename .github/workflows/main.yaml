@@ -28,7 +28,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
 
-       - name: Commit and Push new README.md to the repository
+      - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
