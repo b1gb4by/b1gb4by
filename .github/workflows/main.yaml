@@ -3,18 +3,20 @@ name: Build the README
 on:
   push:
     branches: [ master ]
-  workflow_dispatch:
   schedule:
-    # Runs at every 24 hours.
-    - cron: '* */24 * * *'
+    # Runs at 4AM JST
+    - cron: '30 19 * * *'
 
 jobs:
   build:
+    name: Update README.md with Metrics
+    # Create a Ubuntu Virtual Machine
     runs-on: ubuntu-latest
+    # Checkout repository code
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
-
+      # Run anmol098/waka-readme-stats
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -22,13 +24,16 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
-
+      # Run avinal/Profile-Readme-WakaTime
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
-
-      - name: Commit and Push new README.md to the repository
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      # Commit changes
+      # - name: Commit and Push If Changed.
+      #   run: | -
+      #     git diff
+      #     git config --global user.email "github-action-bot@example.com"
+      #     git config --global user.name "GitHub Action Bot"
+      #     git commit -m ":muscle: Updated README" -a || echo "No changes to commit"
+      #     git push
