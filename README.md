@@ -222,7 +222,7 @@ I'm currently working on the infrastructure development in Japan <img src="https
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 121 Contributions in the Year 2020
+> 🏆 120 Contributions in the Year 2020
  > 
 > 📦 108.3 kB Used in Github's Storage 
  > 
