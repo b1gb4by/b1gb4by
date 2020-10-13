@@ -228,7 +228,7 @@ I'm currently working on the infrastructure development in Japan <img src="https
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories
+> 📜 12 Public Repositories
  > 
 > 🔑 9 Private Repositories 
 
