@@ -224,7 +224,7 @@ I'm currently working on the infrastructure development in Japan <img src="https
 
 > 🏆 121 Contributions in the Year 2020
  > 
-> 📦 131.4 kB Used in Github's Storage 
+> 📦 132.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
