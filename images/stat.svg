@@ -7,7 +7,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2020-10-20T08:32:31.429312</dc:date>
+    <dc:date>2020-10-20T08:33:12.739095</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -31,31 +31,31 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path clip-path="url(#p8aa8203486)" d="M 65.840625 27.358125 
+    <path clip-path="url(#p7e8b861f75)" d="M 65.840625 27.358125 
 L 597.269196 27.358125 
 L 597.269196 44.158125 
 L 65.840625 44.158125 
 z
-" style="fill:#80cc07;stroke:#80cc07;stroke-linejoin:miter;"/>
+" style="fill:#b85a14;stroke:#b85a14;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p8aa8203486)" d="M 65.840625 48.358125 
+    <path clip-path="url(#p7e8b861f75)" d="M 65.840625 48.358125 
 L 70.939562 48.358125 
 L 70.939562 65.158125 
 L 65.840625 65.158125 
 z
-" style="fill:#cf75c9;stroke:#cf75c9;stroke-linejoin:miter;"/>
+" style="fill:#928480;stroke:#928480;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p8aa8203486)" d="M 65.840625 69.358125 
+    <path clip-path="url(#p7e8b861f75)" d="M 65.840625 69.358125 
 L 69.854682 69.358125 
 L 69.854682 86.158125 
 L 65.840625 86.158125 
 z
-" style="fill:#cfd32c;stroke:#cfd32c;stroke-linejoin:miter;"/>
+" style="fill:#bae9d5;stroke:#bae9d5;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#p8aa8203486)" d="M 65.840625 90.358125 
+    <path clip-path="url(#p7e8b861f75)" d="M 65.840625 90.358125 
 L 67.033993 90.358125 
 L 67.033993 107.158125 
 L 65.840625 107.158125 
@@ -63,12 +63,12 @@ z
 " style="fill:#00add8;stroke:#00add8;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#p8aa8203486)" d="M 65.840625 111.358125 
+    <path clip-path="url(#p7e8b861f75)" d="M 65.840625 111.358125 
 L 66.437309 111.358125 
 L 66.437309 128.158125 
 L 65.840625 128.158125 
 z
-" style="fill:#72a76b;stroke:#72a76b;stroke-linejoin:miter;"/>
+" style="fill:#9f9dee;stroke:#9f9dee;stroke-linejoin:miter;"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2">
@@ -77,10 +77,10 @@ z
       <defs>
        <path d="M 0 0 
 L -3.5 0 
-" id="m3bf44a8bf0" style="stroke:#000000;stroke-width:0.8;"/>
+" id="mfaceae2a32" style="stroke:#000000;stroke-width:0.8;"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#m3bf44a8bf0" y="35.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#mfaceae2a32" y="35.758125"/>
       </g>
      </g>
      <g id="text_1">
@@ -146,7 +146,7 @@ z
     <g id="ytick_2">
      <g id="line2d_2">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#m3bf44a8bf0" y="56.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#mfaceae2a32" y="56.758125"/>
       </g>
      </g>
      <g id="text_2">
@@ -310,7 +310,7 @@ z
     <g id="ytick_3">
      <g id="line2d_3">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#m3bf44a8bf0" y="77.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#mfaceae2a32" y="77.758125"/>
       </g>
      </g>
      <g id="text_3">
@@ -465,7 +465,7 @@ z
     <g id="ytick_4">
      <g id="line2d_4">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#m3bf44a8bf0" y="98.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#mfaceae2a32" y="98.758125"/>
       </g>
      </g>
      <g id="text_4">
@@ -479,7 +479,7 @@ z
     <g id="ytick_5">
      <g id="line2d_5">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#m3bf44a8bf0" y="119.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#mfaceae2a32" y="119.758125"/>
       </g>
      </g>
      <g id="text_5">
@@ -1048,7 +1048,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p8aa8203486">
+  <clipPath id="p7e8b861f75">
    <rect height="110.88" width="558" x="65.840625" y="22.318125"/>
   </clipPath>
  </defs>
