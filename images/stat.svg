@@ -7,7 +7,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2020-11-02T20:03:39.262268</dc:date>
+    <dc:date>2020-11-02T20:04:52.684208</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -31,15 +31,15 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path clip-path="url(#pf98480b857)" d="M 65.840625 27.358125 
+    <path clip-path="url(#pba97905ac6)" d="M 65.840625 27.358125 
 L 597.269196 27.358125 
 L 597.269196 44.158125 
 L 65.840625 44.158125 
 z
-" style="fill:#fd2283;stroke:#fd2283;stroke-linejoin:miter;"/>
+" style="fill:#629cff;stroke:#629cff;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#pf98480b857)" d="M 65.840625 48.358125 
+    <path clip-path="url(#pba97905ac6)" d="M 65.840625 48.358125 
 L 274.273915 48.358125 
 L 274.273915 65.158125 
 L 65.840625 65.158125 
@@ -47,15 +47,15 @@ z
 " style="fill:#89e051;stroke:#89e051;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#pf98480b857)" d="M 65.840625 69.358125 
+    <path clip-path="url(#pba97905ac6)" d="M 65.840625 69.358125 
 L 97.04626 69.358125 
 L 97.04626 86.158125 
 L 65.840625 86.158125 
 z
-" style="fill:#365ada;stroke:#365ada;stroke-linejoin:miter;"/>
+" style="fill:#c765ee;stroke:#c765ee;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#pf98480b857)" d="M 65.840625 90.358125 
+    <path clip-path="url(#pba97905ac6)" d="M 65.840625 90.358125 
 L 96.707068 90.358125 
 L 96.707068 107.158125 
 L 65.840625 107.158125 
@@ -63,12 +63,12 @@ z
 " style="fill:#00add8;stroke:#00add8;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#pf98480b857)" d="M 65.840625 111.358125 
+    <path clip-path="url(#pba97905ac6)" d="M 65.840625 111.358125 
 L 80.086676 111.358125 
 L 80.086676 128.158125 
 L 65.840625 128.158125 
 z
-" style="fill:#225864;stroke:#225864;stroke-linejoin:miter;"/>
+" style="fill:#7c93da;stroke:#7c93da;stroke-linejoin:miter;"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2">
@@ -77,10 +77,10 @@ z
       <defs>
        <path d="M 0 0 
 L -3.5 0 
-" id="mc6106e69bd" style="stroke:#000000;stroke-width:0.8;"/>
+" id="mc39dc9dde0" style="stroke:#000000;stroke-width:0.8;"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#mc6106e69bd" y="35.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#mc39dc9dde0" y="35.758125"/>
       </g>
      </g>
      <g id="text_1">
@@ -146,7 +146,7 @@ z
     <g id="ytick_2">
      <g id="line2d_2">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#mc6106e69bd" y="56.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#mc39dc9dde0" y="56.758125"/>
       </g>
      </g>
      <g id="text_2">
@@ -275,7 +275,7 @@ z
     <g id="ytick_3">
      <g id="line2d_3">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#mc6106e69bd" y="77.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#mc39dc9dde0" y="77.758125"/>
       </g>
      </g>
      <g id="text_3">
@@ -407,7 +407,7 @@ z
     <g id="ytick_4">
      <g id="line2d_4">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#mc6106e69bd" y="98.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#mc39dc9dde0" y="98.758125"/>
       </g>
      </g>
      <g id="text_4">
@@ -448,7 +448,7 @@ z
     <g id="ytick_5">
      <g id="line2d_5">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#mc6106e69bd" y="119.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#mc39dc9dde0" y="119.758125"/>
       </g>
      </g>
      <g id="text_5">
@@ -1123,7 +1123,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pf98480b857">
+  <clipPath id="pba97905ac6">
    <rect height="110.88" width="558" x="65.840625" y="22.318125"/>
   </clipPath>
  </defs>
