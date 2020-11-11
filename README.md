@@ -292,12 +292,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-<!-- Profile-Readme-WakaTime -->
-
-<a href="https://github.com/t4i5uKE/t4i5uKE">
-    <img align="center" src="./images/stat.png" alt="wakatime-stat"/>
-</a>
-
 ---
 
