@@ -24,8 +24,3 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
-      # Run avinal/Profile-Readme-WakaTime
-      - uses: avinal/Profile-Readme-WakaTime@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ github.token }}
