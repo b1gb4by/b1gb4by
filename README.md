@@ -213,9 +213,6 @@ I'm currently working on the infrastructure development in Japan <img src="https
             <a href="https://www.vagrantup.com/">
                 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
             </a>
-            <!-- Dark/Darklang -->
-            <a href="">
-                <img src="">
         </td>
     </tr>
     </tbody>
