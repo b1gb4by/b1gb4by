@@ -288,7 +288,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/t4i5uKE/t4i5uKE/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/t4i5uKE/t4i5uKE/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
