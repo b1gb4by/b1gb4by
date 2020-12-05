@@ -44,9 +44,9 @@ I'm currently working on the infrastructure development in Japan <img src="https
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories
+> 📜 13 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 11 Private Repositories  
 
 **I'm a Night 🦉** 
 
