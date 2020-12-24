@@ -38,7 +38,7 @@ I'm currently working on the infrastructure development in Japan <img src="https
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 138 Contributions in the Year 2020
+> 🏆 136 Contributions in the Year 2020
  > 
 > 📦 551.4 kB Used in Github's Storage 
  > 
