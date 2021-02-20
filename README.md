@@ -5,6 +5,7 @@
     Hi, I'm t4i5uKE (morero) 
     <img src="https://emojis.slackmojis.com/emojis/images/1600385609/10490/cactuar.gif?1600385609" width="30"/>
 </h1>
+
 <!-- Badge -->
 <p align="left">
     <!-- GitHub -->
@@ -43,19 +44,19 @@
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 <br>
 <p> 💻 Workspace Spec </p>
-    <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white">
-    <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white">
 <br>
 <p> 🎮 Games </p>
-    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
+<img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 <br>
 <p> 🍔🍕 Food </p>
-    <img src="https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white">
-
+<img src="https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white">
+<br>
 <!-- Spotify -->
-<div style="text-align: center;">
+<div align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=21b7yx6vkj66csord5swswvza&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b7yx6vkj66csord5swswvza&cover_image=true&theme=default" alt="spotify-github-profile"></a>
 </div>
 
