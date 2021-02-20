@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/xK.gif" width=480 height=214.069 frameBorder="0" allowFullScreen>
+<img src="https://i.gifer.com/xK.gif">
 <p><a href="https://gifer.com">via GIFER</a></p>
 
 <!-- Title -->
