@@ -1,3 +1,5 @@
+<img src="https://i.gifer.com/xK.gif" width=480 height=214.069 frameBorder="0" allowFullScreen>
+<p><a href="https://gifer.com">via GIFER</a></p>
 
 <!-- Title -->
 <h1>
@@ -6,38 +8,30 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1600385609/10490/cactuar.gif?1600385609" width="30"/>
 </h1>
 
-<!-- Badge -->
-<p align="left">
-    <!-- GitHub -->
-    <a href="https://github.com/t4i5uKE/t4i5uKE/">
-        <img src="https://komarev.com/ghpvc/?username=m0rer0" alt="github" />
-    </a>
-    <a href="https://github.com/t4i5uKE">
-        <img height="20" src="https://img.shields.io/github/followers/t4i5uKE?label=follow&logo=github&style=flat" alt="github_follow"/>
-    </a>
-    <!-- Twitter -->
-    <a href="http://twitter.com/m0rer0">
-        <img height="20" src="https://img.shields.io/twitter/follow/m0rer0?label=Twitter&logo=twitter&style=flat" alt="twitter"/>
-    </a>
-    <!-- Qiita -->
-    <a href="http://qiita.com/Morero">
-        <img height="20" src="https://qiita-badge.apiapi.app/s/Morero/posts.svg" />
-    </a>
-    <a href="http://qiita.com/Morero">
-        <img height="20" src="https://qiita-badge.apiapi.app/s/Morero/contributions.svg" />
-    </a>
-</p>
-
-
 <!-- Profile -->
 <p> 
     Welcome to my page !! <br>
     I'm currently working on the SRE engineer in Japan <img src="https://www.flaticon.com/svg/static/icons/svg/2159/2159573.svg" width="13"/>.
     <br>
 </p>
+<br>
 
----
-
+<b> 👨👩 Social </b>
+<p align="left">
+    <a href="http://twitter.com/m0rer0">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/t4i5uke.0/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://www.facebook.com/edb320b7e6fdaca76043d9ae236bd7c4">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/%F0%9F%90%B3taisuke-okamoto-793a53187/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</p>
+<br>
 <b> 🚀 Skills </b>
 <p align="left">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -51,6 +45,7 @@
 <p align="left">
     <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white">
     <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white">
+    <img src="https://img.shields.io/badge/Windows-Home_Build-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 </p>
 <br>
@@ -61,6 +56,11 @@
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </p>
 <br>
+<b> 🎶 Sound </b>
+<p align="left">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
+</p>
 <b> 🍔🍕 Food </b>
 <p align="left">
     <img src="https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white">
@@ -74,7 +74,7 @@
 
 ---
 
-<h3> :bar_chart: Weekly development breakdown </h3>
+<h3> 📊 Weekly development breakdown </h3>
 <!-- waka-readme-stats -->
 
 <!--START_SECTION:waka-->
