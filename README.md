@@ -1,6 +1,3 @@
-<img src="https://i.gifer.com/xK.gif">
-<p><a href="https://gifer.com">via GIFER</a></p>
-
 <!-- Title -->
 <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1600385609/10490/cactuar.gif?1600385609" width="30"/> 
