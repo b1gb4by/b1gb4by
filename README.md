@@ -5,11 +5,6 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1600385609/10490/cactuar.gif?1600385609" width="30"/>
 </h1>
 
-<!-- Spotify -->
-<div align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=21b7yx6vkj66csord5swswvza&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b7yx6vkj66csord5swswvza&cover_image=true&theme=default" alt="spotify-github-profile"></a>
-</div>
-
 ---
 
 <h3> 📊 Weekly development breakdown </h3>
