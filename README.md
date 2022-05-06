@@ -11,8 +11,6 @@
 <!-- waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C041%20hrs%2015%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 56 Contributions in the Year 2022
@@ -81,5 +79,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2022 15:02:17 UTC
+ Last Updated on 06/05/2022 15:04:28 UTC
 <!--END_SECTION:waka-->
