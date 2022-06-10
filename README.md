@@ -11,7 +11,7 @@
 <!-- waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C119%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C119%20hrs%207%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -82,5 +82,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2022 08:10:44 UTC
+ Last Updated on 10/06/2022 08:13:09 UTC
 <!--END_SECTION:waka-->
