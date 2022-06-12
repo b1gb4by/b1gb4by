@@ -13,18 +13,19 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%2013%20mins-blue)
 
-**📊 My GitHub data** 
+**🐱 My GitHub Data** 
 
-```text
-🏆 95 contributions in 2022
-
-📦 607.1 kB used in GitHub's storage 
-
-📜 43 Public Repositories 
-
-🔑 16 Private Repositories  
+> 🏆 95 Contributions in the Year 2022
  > 
-**I'm a night 🦉** 
+> 📦 607.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 43 Public Repositories 
+ > 
+> 🔑 16 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.96% 
@@ -33,7 +34,7 @@
 🌙 Night      226 commits    ███████░░░░░░░░░░░░░░░░░░   30.42%
 
 ```
-📅 **I'm most productive on Saturday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday       67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.02% 
@@ -47,7 +48,7 @@ Sunday       114 commits    ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Tokyo
@@ -68,7 +69,7 @@ Mac                      10 hrs              ██████████░�
 
 ```
 
-**💻 I mostly code in Go** 
+**I Mostly Code in Go** 
 
 ```text
 Go                       5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74% 
@@ -81,5 +82,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 08:13:43 UTC
+ Last Updated on 12/06/2022 08:15:26 UTC
 <!--END_SECTION:waka-->
