@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%2013%20mins-blue)
 
-**📊 Global GitHub data** 
+**📊 My GitHub data** 
 
 ```text
 🏆 95 contributions in 2022
@@ -81,5 +81,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 07:57:32 UTC
+ Last Updated on 12/06/2022 07:59:14 UTC
 <!--END_SECTION:waka-->
