@@ -54,14 +54,13 @@ Sunday       64 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-YAML                     0 secs              ████████████████░░░░░░░░░   67.1% 
-Other                    0 secs              ████████░░░░░░░░░░░░░░░░░   32.9%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -78,5 +77,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2023 15:01:11 UTC
+ Last Updated on 06/01/2023 15:03:07 UTC
 <!--END_SECTION:waka-->
