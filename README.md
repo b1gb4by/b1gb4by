@@ -1,8 +1,8 @@
 <!-- Title -->
 <h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1600385609/10490/cactuar.gif?1600385609" width="30"/> 
+    <img src="https://media.tenor.com/TlyRveJkgo4AAAAi/cloud-cloud-strife.gif" width="50"/> 
     Hi, I'm Taisuke Okamoto (BigBaBy) 
-    <img src="https://emojis.slackmojis.com/emojis/images/1600385609/10490/cactuar.gif?1600385609" width="30"/>
+    <img src="https://media.tenor.com/TlyRveJkgo4AAAAi/cloud-cloud-strife.gif" width="50"/>
 </h1>
 
 ---
