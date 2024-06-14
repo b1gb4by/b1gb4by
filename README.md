@@ -11,6 +11,8 @@
 <!-- waka-readme-stats -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C766%20hrs%2016%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 614.9 kB Used in GitHub's Storage 
@@ -76,5 +78,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2024 06:17:05 UTC
+ Last Updated on 14/06/2024 06:22:22 UTC
 <!--END_SECTION:waka-->
