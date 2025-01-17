@@ -2,10 +2,10 @@ name: Build the README
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   schedule:
-    # Runs at 4AM JST
-    - cron: '0 6 * * 5'
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -15,10 +15,7 @@ jobs:
     # Checkout repository code
     steps:
       # Run anmol098/waka-readme-stats
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_LOC_CHART: "False"
