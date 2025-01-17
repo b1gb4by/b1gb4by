@@ -24,4 +24,4 @@ JSON       6 mins          ▒░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21b7yx6vkj66csord5swswvza&count=10&width=500)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21b7yx6vkj66csord5swswvza&count=10&width=1000)
