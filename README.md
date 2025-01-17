@@ -13,6 +13,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 7 hrs 41 mins
+
 Markdown   6 hrs 6 mins    ███████████████████▓░░░░░   79.29 %
 YAML       48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
 Go         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
