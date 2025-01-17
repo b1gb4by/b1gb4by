@@ -5,8 +5,6 @@
     <img src="https://media.tenor.com/TlyRveJkgo4AAAAi/cloud-cloud-strife.gif" width="50"/>
 </h1>
 
----
-
 <h3> 📊 Weekly development breakdown </h3>
 <!-- waka-readme-stats -->
 
