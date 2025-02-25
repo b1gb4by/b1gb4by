@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 47 mins
+Total Time: 4 hrs 30 mins
 
-Go                3 hrs 19 mins   ███████████████░░░░░░░░░░   59.74 %
-Other             47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-SQL               19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-JavaScript        19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-SSH Config        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Go                3 hrs 19 mins   █████████████████░░░░░░░░   67.36 %
+Other             26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+JavaScript        19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+SSH Config        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Makefile          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 
 <!--END_SECTION:waka-->
