@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 42 mins
+Total Time: 4 hrs 51 mins
 
-YAML         1 hr 50 mins    █████████████████░░░░░░░░   68.17 %
-Go           42 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
-SSH Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-Terraform    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+YAML         3 hrs 20 mins   █████████████████▒░░░░░░░   68.87 %
+Go           49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+Makefile     18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Docker       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+SSH Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
