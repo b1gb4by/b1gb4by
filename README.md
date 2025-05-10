@@ -11,11 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 22 mins
+Total Time: 5 hrs 48 mins
 
-Markdown   2 hrs 43 mins   ████████████▓░░░░░░░░░░░░   50.79 %
-YAML       1 hr 42 mins    ████████░░░░░░░░░░░░░░░░░   31.75 %
-Go         56 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
+Markdown   3 hrs 3 mins    █████████████░░░░░░░░░░░░   52.56 %
+YAML       1 hr 42 mins    ███████▒░░░░░░░░░░░░░░░░░   29.37 %
+Go         56 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
+Docker     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
