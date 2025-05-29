@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 11 mins
+Total Time: 10 hrs 18 mins
 
-Terraform    3 hrs 43 mins   ███████████▒░░░░░░░░░░░░░   44.78 %
-Go           1 hr 28 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
-SQL          1 hr 23 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
-Makefile     42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Docker       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Terraform    4 hrs 7 mins    █████████▓░░░░░░░░░░░░░░░   39.12 %
+Go           2 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   23.69 %
+SQL          2 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
+Makefile     43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Docker       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 ```
 
 <!--END_SECTION:waka-->
