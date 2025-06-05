@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 8 mins
+Total Time: 6 hrs 10 mins
 
-Terraform    4 hrs 37 mins   ██████████▓░░░░░░░░░░░░░░   42.23 %
-Go           2 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.33 %
-SQL          1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-Other        47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-Markdown     30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Terraform    2 hrs 14 mins   ████████▒░░░░░░░░░░░░░░░░   32.72 %
+Go           1 hr 40 mins    ██████░░░░░░░░░░░░░░░░░░░   24.34 %
+Other        41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Markdown     29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+SQL          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
 ```
 
 <!--END_SECTION:waka-->
