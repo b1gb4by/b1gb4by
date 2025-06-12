@@ -11,11 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 56 mins
+Total Time: 38 mins
 
-SQL      27 mins         ████████████▒░░░░░░░░░░░░   49.67 %
-XML      17 mins         ████████░░░░░░░░░░░░░░░░░   31.75 %
-Python   10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
+SQL      27 mins         ██████████████████▒░░░░░░   72.77 %
+Python   10 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
 ```
 
 <!--END_SECTION:waka-->
