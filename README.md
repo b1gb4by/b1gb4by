@@ -11,10 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 58 mins
+Total Time: 59 mins
 
-SQL     58 mins         █████████████████████▓░░░   86.59 %
-Other   8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+SQL     58 mins         █████████████████████▒░░░   84.71 %
+Other   8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
+JSON    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
