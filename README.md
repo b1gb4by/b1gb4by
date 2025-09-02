@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 40 mins
+Total Time: 6 hrs 44 mins
 
-Markdown     3 hrs 55 mins   ██████████████▓░░░░░░░░░░   58.40 %
-YAML         1 hr 57 mins    ███████▒░░░░░░░░░░░░░░░░░   29.05 %
-TOML         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Terraform    14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Docker       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Markdown     3 hrs 57 mins   ██████████████░░░░░░░░░░░   56.51 %
+YAML         2 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   29.87 %
+Terraform    17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Other        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Docker       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
