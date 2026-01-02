@@ -11,13 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 mins
+Total Time: 0 secs
 
-Go             17 mins         ██████████████████████░░░   88.06 %
-YAML           0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Java           0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Markdown       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Text           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
