@@ -11,9 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 13 mins
 
-No activity tracked
+Markdown       6 mins          ████████████▒░░░░░░░░░░░░   49.12 %
+Go             3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
+TOML           2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
+Docker         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Bash           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
