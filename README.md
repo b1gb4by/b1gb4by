@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 27 mins
+Total Time: 4 hrs 38 mins
 
-Java             1 hr 54 mins    ██████████████████▒░░░░░░   73.75 %
-GitIgnore file   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Other            8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Markdown         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Go               4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Java             1 hr 58 mins    ██████████░░░░░░░░░░░░░░░   40.30 %
+YAML             1 hr 7 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.07 %
+Bash             37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Other            14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Shell Script     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->
