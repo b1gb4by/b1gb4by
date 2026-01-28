@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 18 hrs 31 mins
+Total Time: 14 hrs 1 min
 
-YAML         7 hrs 44 mins   ██████████░░░░░░░░░░░░░░░   40.35 %
-Markdown     2 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
-JSON         1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-Makefile     1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-Bash         1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+YAML         5 hrs 20 mins   █████████▒░░░░░░░░░░░░░░░   37.59 %
+Markdown     2 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+JSON         1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
+Makefile     1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+TOML         1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
 ```
 
 <!--END_SECTION:waka-->
