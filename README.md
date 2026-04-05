@@ -8,7 +8,7 @@
 <h3> 📊 Weekly development breakdown </h3>
 
 <img
-  src="https://github.com/b1gb4by/b1gb4by/blob/master/images/stat.svg"
+  src="https://raw.githubusercontent.com/b1gb4by/b1gb4by/master/images/stat.svg"
   alt="WakaTime Activity Graph"
 />
 
