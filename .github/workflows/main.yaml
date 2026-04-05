@@ -14,5 +14,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
-          BRANCH: "master"
+          BRANCH: "main"
           STATS_RANGE: "last_7_days"
