@@ -1,24 +1,18 @@
-name: Build the README
+name: WakaTime status update
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
   update-readme:
-    name: Update README.md with Metrics
-    # Create a Ubuntu Virtual Machine
+    name: Update the WakaTime Stat
     runs-on: ubuntu-latest
-    # Checkout repository code
     steps:
-      # Run anmol098/waka-readme-stats
-      - uses: athul/waka-readme@master
+      - uses: avinal/Profile-Readme-WakaTime@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          ### content
-          SHOW_TIME: true
-          SHOW_TOTAL: true
+          GITHUB_TOKEN: ${{ github.token }}
+          BRANCH: "master"
+          STATS_RANGE: "last_7_days"
