@@ -8,7 +8,7 @@ on:
 jobs:
   update-readme:
     name: Update the WakaTime Stat
-    runs-on: ubuntu-26.04
+    runs-on: ubuntu-24.04
     steps:
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
