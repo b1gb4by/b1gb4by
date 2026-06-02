@@ -8,11 +8,11 @@ on:
 jobs:
   update-readme:
     name: Update the WakaTime Stat
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     steps:
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
-          BRANCH: "main"
+          BRANCH: "master"
           STATS_RANGE: "last_7_days"
